@@ -1,0 +1,13 @@
+{
+  "description": "Google Auth Library for Java",
+  "properties": {
+    "v": "1.16.0"
+  },
+  "link": "https://github.com/googleapis/google-auth-library-java",
+  "dependencies": [
+    "com.google.auth:google-auth-library-credentials:$v"
+  ],
+  "imports": [
+    "com.google.auth.*"
+  ]
+}

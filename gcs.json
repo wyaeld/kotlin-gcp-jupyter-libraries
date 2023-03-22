@@ -1,0 +1,13 @@
+{
+  "description": "Kotlin SQL framework",
+  "properties": {
+    "v": "2.20.1"
+  },
+  "link": "https://github.com/googleapis/java-storage",
+  "dependencies": [
+    "com.google.cloud:google-cloud-storage:$v"
+  ],
+  "imports": [
+    "com.google.cloud.storage.*"
+  ]
+}
